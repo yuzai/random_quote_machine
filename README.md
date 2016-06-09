@@ -1,0 +1,1 @@
+a simple webpage by js,html,css which can generate a random quote with the button clocked.(a few quotes)
